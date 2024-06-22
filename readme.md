@@ -1,0 +1,1 @@
+creating a end to end machine learning preject to predict whether a student consums alcohol or not
